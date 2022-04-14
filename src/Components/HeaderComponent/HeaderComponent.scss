@@ -1,0 +1,23 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+
+  &_son {
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.3);
+
+    &_son {
+      width: 100%;
+      display: flex;
+      justify-content: right;
+
+      a {
+        text-decoration: none;
+        color: black;
+      }
+    }
+  }
+}

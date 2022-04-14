@@ -1,0 +1,60 @@
+.card-container-parent {
+  display: flex;
+}
+
+.card-container {
+  width: 22%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: 20px;
+  flex-direction: column;
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+.card-container::-webkit-scrollbar {
+  width: 2px;
+  height: 5px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 8px 8px 8px 0px rgba(0, 0, 0, 0.3);
+}
+
+.card-container::-webkit-scrollbar-thumb {
+  background: #f57171;
+}
+
+.card-container-brother {
+  width: 75%;
+  background-color: white;
+  margin-top: 25px;
+  display: flex;
+  border-radius: 10px;
+  margin-left: 5vh;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  box-shadow: 8px 8px 8px 0px rgba(0, 0, 0, 0.3);
+  overflow-x: hidden;
+}
+
+.item {
+  margin-left: 5px;
+  margin-top: 10px;
+  box-shadow: 8px 8px 8px 0px rgba(0, 0, 0, 0.3);
+  &:hover {
+    background-color: #f57171 !important;
+    cursor: pointer;
+  }
+}
+
+.bill-item-parent {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+}

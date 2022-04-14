@@ -1,0 +1,22 @@
+.acordion-parent {
+  width: 100% !important;
+  background-color: red !important;
+}
+
+.accordion-button:not(.collapsed) {
+  color: #c52f2f !important;
+  font-weight: bold !important;
+  background-color: #f57171 !important;
+}
+
+.accordion-button:focus {
+  z-index: 3;
+  border-color: #fe8686 !important;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgba(255, 106, 106, 0.602) !important;
+}
+
+.item-image {
+  height: 100px;
+  width: 70px;
+}

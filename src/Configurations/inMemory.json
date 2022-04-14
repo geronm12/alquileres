@@ -1,0 +1,273 @@
+{
+  "2021": {
+    "diciembre": {
+      "año": 2021,
+      "comprobantes": [
+        {
+          "servicio": "GAS",
+          "costoTotal": 323.21,
+          "fecha": "15-12-2021",
+          "evidenciaAdjunta": "https://alquileresdepto.s3.sa-east-1.amazonaws.com/Diciembre+2021/Gasnor.png",
+          "estado": 1
+        },
+        {
+          "servicio": "AGUA",
+          "costoTotal": 888.16,
+          "fecha": "15-12-2021",
+          "evidenciaAdjunta": "https://alquileresdepto.s3.sa-east-1.amazonaws.com/Diciembre+2021/SAT+Diciembre.png",
+          "estado": 1
+        },
+        {
+          "servicio": "CISI",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        },
+        {
+          "servicio": "EXPENSAS",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        },
+        {
+          "servicio": "EDET",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 0
+        },
+        {
+          "servicio": "ALQUILER",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        }
+      ]
+    }
+  },
+  "2022": {
+    "enero": {
+      "año": 2022,
+      "comprobantes": [
+        {
+          "servicio": "GAS",
+          "costoTotal": 323.21,
+          "fecha": "15-12-2021",
+          "evidenciaAdjunta": "https://alquileresdepto.s3.sa-east-1.amazonaws.com/2022/Enero/Gasnor+Enero.png",
+          "estado": 1
+        },
+        {
+          "servicio": "AGUA",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "https://alquileresdepto.s3.sa-east-1.amazonaws.com/2022/Enero/SAT+Enero.png",
+          "estado": 1
+        },
+        {
+          "servicio": "CISI",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        },
+        {
+          "servicio": "EXPENSAS",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        },
+        {
+          "servicio": "EDET",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "https://alquileresdepto.s3.sa-east-1.amazonaws.com/2022/Enero/Edet+Enero.png",
+          "estado": 1
+        },
+        {
+          "servicio": "ALQUILER",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        }
+      ]
+    },
+    "febrero": {
+      "año": 2022,
+      "comprobantes": [
+        {
+          "servicio": "GAS",
+          "costoTotal": 323.21,
+          "fecha": "15-12-2021",
+          "evidenciaAdjunta": "https://alquileresdepto.s3.sa-east-1.amazonaws.com/2022/Febrero/Gasnor+Febrero.png",
+          "estado": 1
+        },
+        {
+          "servicio": "AGUA",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        },
+        {
+          "servicio": "CISI",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        },
+        {
+          "servicio": "EXPENSAS",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        },
+        {
+          "servicio": "EDET",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 0
+        },
+        {
+          "servicio": "ALQUILER",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        }
+      ]
+    },
+    "marzo": {
+      "año": 2022,
+      "comprobantes": [
+        {
+          "servicio": "GAS",
+          "costoTotal": 323.21,
+          "fecha": "15-12-2021",
+          "evidenciaAdjunta": "https://alquileresdepto.s3.sa-east-1.amazonaws.com/2022/Marzo/Gasnor+Marzo.png",
+          "estado": 1
+        },
+        {
+          "servicio": "AGUA",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "https://alquileresdepto.s3.sa-east-1.amazonaws.com/2022/Marzo/SAT+Marzo.png",
+          "estado": 1
+        },
+        {
+          "servicio": "CISI",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        },
+        {
+          "servicio": "EXPENSAS",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        },
+        {
+          "servicio": "EDET",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "https://alquileresdepto.s3.sa-east-1.amazonaws.com/2022/Marzo/Edet+Marzo.png",
+          "estado": 1
+        },
+        {
+          "servicio": "ALQUILER",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        }
+      ]
+    },
+    "abril": {
+      "año": 2022,
+      "comprobantes": [
+        {
+          "servicio": "GAS",
+          "costoTotal": 323.21,
+          "fecha": "15-12-2021",
+          "evidenciaAdjunta": "https://alquileresdepto.s3.sa-east-1.amazonaws.com/2022/Abril/Gasnor+Abril.png",
+          "estado": 1
+        },
+        {
+          "servicio": "AGUA",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "https://alquileresdepto.s3.sa-east-1.amazonaws.com/2022/Abril/SAT+Abril.png",
+          "estado": 1
+        },
+        {
+          "servicio": "CISI",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        },
+        {
+          "servicio": "EXPENSAS",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        },
+        {
+          "servicio": "EDET",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 0
+        },
+        {
+          "servicio": "ALQUILER",
+          "costoTotal": 0,
+          "fecha": 0,
+          "evidenciaAdjunta": "",
+          "estado": 1
+        }
+      ]
+    },
+    "mayo": {
+      "año": 2022,
+      "comprobantes": []
+    },
+    "junio": {
+      "año": 2022,
+      "comprobantes": []
+    },
+    "julio": {
+      "año": 2022,
+      "comprobantes": []
+    },
+    "agosto": {
+      "año": 2022,
+      "comprobantes": []
+    },
+    "septiembre": {
+      "año": 2022,
+      "comprobantes": []
+    },
+    "octubre": {
+      "año": 2022,
+      "comprobantes": []
+    },
+    "noviembre": {
+      "año": 2022,
+      "comprobantes": []
+    },
+    "diciembre": {
+      "año": 2022,
+      "comprobantes": []
+    }
+  }
+}
